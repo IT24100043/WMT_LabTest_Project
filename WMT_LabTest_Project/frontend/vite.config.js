@@ -8,7 +8,7 @@ export default defineConfig({
     port: 8080,
     strictPort: true,
     allowedHosts: [
-      "https://frontend-production-3071.up.railway.app"
+      "frontend-production-3071.up.railway.app"
     ]
   },
 });
